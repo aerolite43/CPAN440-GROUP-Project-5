@@ -1,0 +1,15 @@
+h1#mainHeader {
+	font-size: 5em;
+	text-align: center;
+}
+div#headerDiv {
+	margin-bottom: 40px;
+}
+
+body {
+	background-color: #DDDDDD;
+}
+
+hr {
+	color: #000000;
+}
